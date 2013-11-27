@@ -1,2 +1,2 @@
-london_discussions
+London JS Discussions
 ==================
